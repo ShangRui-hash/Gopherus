@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 pip2 install argparse
 pip2 install requests
 chmod +x gopherus.py
